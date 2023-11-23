@@ -1,6 +1,6 @@
 # Building a Potato Bug Crawler 
 
-I created this repository to show and share my work on an autonomous crawler (or rover) for collecting Colorado (potato) beetles in professional fields.
+I created this repository to show and share my work on an autonomous crawler (or rover) for collecting Colorado (potato) beetles in professional potato fields.
 One of the main goals of this project is to develop a device that is easy to replicate and cost effective. This crawler, powered by solar energy and autonomously moving, is intended to environmentally locate and eliminate Colorado (potato) beetles and their eggs.
 
 To ensure that the "PuBuCraw" can indeed be easily replicated, I will publish construction drawings (i use FreeCAD for my work, wich is opensource to) and corresponding parts lists here. Additionally, I will strive to keep the code used for control as straightforward and readable as possible.
